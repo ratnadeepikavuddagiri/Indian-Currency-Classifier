@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=V9cDjjRXS08
 
 Dataset Link
 https://www.kaggle.com/vishalmane109/indian-currency-note-images-dataset-2020
+
+port number
+127.0.0.1:5000
